@@ -72,10 +72,12 @@ body {
 
    }
 
-   .imgSize {
-       height: 25px;
-       width:  25px;
-   }
+    #img-thumbnail {
+        width: 210px;
+        height: 185px;
+     }
+
+   
 
 
 /* portfolio page */
